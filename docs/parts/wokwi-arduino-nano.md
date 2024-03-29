@@ -11,4 +11,4 @@ For more information, see the [wokwi-arduino-uno reference](wokwi-arduino-uno).
 
 ## Differences from the Arduino Uno
 
-The Arduino Nano includes two extra analog pins: A6 and A7. These pins can only be used for Analog input. They can't be used as digital GPIO pins.
+The Arduino Nano includes two extra analog pins: A6 and A7. These pins can only be used for Analog input. They can't be used as digital GPIO pins!
